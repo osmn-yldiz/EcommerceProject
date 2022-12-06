@@ -1,0 +1,17 @@
+1-) **Bazı yerlerde web services kullanılacak.
+2-) Gereksiz css ve js kullanılmayacak.
+3-) Template sistemi yazılarak ilerlenilecek.
+4) Heryerde sabit dosylaa kullanc. index.php yada Profile.php gibi. sonrasonda  htaccessolarak index.php index.py ,mdex.aspx
+
+
+
+5) **config için değişkenler olsun. 
+6) **database class olsun. connect database classın içinde olacak.
+7) database de settings tablosundan sitenin rengini değiştirebileceğiz
+
+8) sepete ürün ekleme ajax ile yapılacak.
+9) anasayfadaki sepet otomatik olarak eklenecek tasarım güncellenecek
+10) basket sayfasında ajax ile yapmaya denilecek
+11) Iyzico fatura teslimat adresleri tabloları oluşturuldu
+11) Iyzico ödemesi yapılacak
+12) Kurulum scripti
